@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from "react";
 import './index.css'
-import Navbar from './component/navbar'
+import Navbar from './component/Navbar'
 import {Mblnav} from './component/Mblnav'
 import Home from './component/Home'
 import {Program} from './component/program'
