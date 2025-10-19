@@ -1,5 +1,5 @@
 import React from 'react'
-import {NavLink} from './navbar'
+import {NavLink} from './Navbar'
 import { Link } from 'react-scroll';
 
 export const Mblnav = ({menu,setmenu}) => {
